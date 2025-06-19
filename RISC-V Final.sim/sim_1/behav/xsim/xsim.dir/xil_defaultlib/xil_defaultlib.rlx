@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/COA LAB/RISC-V Final/RISC-V Final.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU.v,1750052325,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU_Control_unit.v,,ALU,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU_Control_unit.v,1750108281,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder.v,,ALU_Control_unit,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder.v,1747663437,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder_pc.v,,Adder,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder_pc.v,1747657087,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Control_unit.v,,Adder_pc,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Control_unit.v,1749901169,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/DataPath.v,,Control_unit,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Data_Memory.v,1750106400,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/ForwardingUnit.v,,Data_Memory,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Instruction_Memory.v,1750141558,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Mux.v,,Instruction_Memory,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Mux.v,1749147353,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v,,Mux,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v,1747657146,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/Pipe_Registers.v,,PC,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Reg_File.v,1747659179,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/leftShifter.v,,Reg_File,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/DataPath.v,1750137027,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Data_Memory.v,,DataPath,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Immediate_Gen.v,1749819777,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Instruction_Memory.v,,Immediate_Gen,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor.v,1749902513,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Reg_File.v,,Processor,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor_tb.v,1750105495,verilog,,,,Processor_tb,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/leftShifter.v,1749893670,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor_tb.v,,leftShifter,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/ForwardingUnit.v,1750131333,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Immediate_Gen.v,,ForwardingUnit;Mux3to1,,,,,,,,
+D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/Pipe_Registers.v,1750127320,verilog,,D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor.v,,EX_MEM_Register;ID_EX_Register;IF_ID_Register;MEM_WB_Register;Pipe_Registers,,,,,,,,

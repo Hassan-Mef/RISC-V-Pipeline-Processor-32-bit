@@ -1,0 +1,39 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU_Control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder_pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder_pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/DataPath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataPath
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/ForwardingUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ForwardingUnit
+INFO: [VRFC 10-311] analyzing module Mux3to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Immediate_Gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Immediate_Gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/new/Pipe_Registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipe_Registers
+INFO: [VRFC 10-311] analyzing module IF_ID_Register
+INFO: [VRFC 10-311] analyzing module ID_EX_Register
+INFO: [VRFC 10-311] analyzing module EX_MEM_Register
+INFO: [VRFC 10-311] analyzing module MEM_WB_Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Processor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/leftShifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module leftShifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/COA LAB/RISC-V Final/RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Processor_tb

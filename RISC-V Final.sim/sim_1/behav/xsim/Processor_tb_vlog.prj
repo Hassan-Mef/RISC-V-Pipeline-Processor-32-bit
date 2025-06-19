@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/ALU_Control_unit.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Adder_pc.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Control_unit.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/DataPath.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Data_Memory.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/new/ForwardingUnit.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Immediate_Gen.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Instruction_Memory.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Mux.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/PC.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/new/Pipe_Registers.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Reg_File.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/leftShifter.v" \
+"../../../../RISC-V Final.srcs/sources_1/imports/sources_1/imports/sources_1/new/Processor_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
