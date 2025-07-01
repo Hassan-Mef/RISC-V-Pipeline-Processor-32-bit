@@ -20,12 +20,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Pipe_Registers(
-
-    );
-endmodule
-
-
 module IF_ID_Register (
     input clk,
     input rst,

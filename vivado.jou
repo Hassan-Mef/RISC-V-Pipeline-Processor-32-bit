@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jul  1 13:05:28 2025
+# Process ID: 2460
+# Current directory: D:/COA LAB/RISC-V-Pipeline-Processor-32-bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8044 D:\COA LAB\RISC-V-Pipeline-Processor-32-bit\RISC-V Final.xpr
+# Log file: D:/COA LAB/RISC-V-Pipeline-Processor-32-bit/vivado.log
+# Journal file: D:/COA LAB/RISC-V-Pipeline-Processor-32-bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/COA LAB/RISC-V-Pipeline-Processor-32-bit/RISC-V Final.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+open_wave_config {D:/COA LAB/RISC-V-Pipeline-Processor-32-bit/Processor_tb_behav.wcfg}
+source Processor_tb.tcl

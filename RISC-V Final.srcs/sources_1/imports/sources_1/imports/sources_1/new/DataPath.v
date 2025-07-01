@@ -33,8 +33,8 @@ module DataPath(
     output [31:0]Instruction
 );
     wire zero;
-    wire [31:0] address_in_final; // PC input
-    wire [31:0] pc_address_in_finalcre; // PC Adder out 
+    wire [31:0] address_in; // PC input
+    wire [31:0] pc_address_in; // PC Adder out 
     wire [31:0] address_out ;  // PC input
     wire [31:0] reg_out_1, reg_out_2;  // Register File out
     wire [3:0] ALUControl_out; // ALU Control out
@@ -243,11 +243,11 @@ module DataPath(
         // Inputs from EX stage
         .alu_result_in(Alu_Result),
         .reg_data2_in(pipe_reg_out_2),
-        .pc_address_in_final(pipe_pc_out_ex),
+        .pc_address_in(pipe_pc_out_ex),
         .rd_in(pipe_rd_out_ex),
         .func3_in(pipe_func3_out_ex),
         .zero_in(zero),
-        .branch_address_in_final(branch_address_ex),
+        .branch_address_in(branch_address_ex),
         
         
         // Outputs to MEM stage
