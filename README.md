@@ -162,6 +162,15 @@ This project is open-source. You may reuse it in academic or personal projects w
 
 ---
 
+
+## ✨ Credits
+
+- Developed by: Hassan-Mef , Adan Maqbool , Osman Raza
+- University Project - Computer Organization and Architecture
+- Language & Tools : Verilog | Vivado
+
+---
+
 ## 🙌 Acknowledgements
 
 Built as part of a Computer Architecture course/project. Inspired by the classic 5-stage RISC-V architecture from textbooks and real-world CPUs.
