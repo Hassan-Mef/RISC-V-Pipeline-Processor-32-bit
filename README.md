@@ -24,6 +24,8 @@ This project implements a fully functional **5-stage pipelined RISC-V processor*
 
 ## 🏗️ Architecture Overview
 
+![RISC-V Datapath + Control Unit ](Datapath_CU.png)
+
 ![RISC-V Architecture ](RISC-V.png)
 
 ### ⛓️ Pipeline Registers
